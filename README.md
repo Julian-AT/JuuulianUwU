@@ -3,7 +3,7 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCx3Q32cQMwNBCVfTDm8WSAg?color=red&label=Juuulian&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg)
 [![Twitter Follow](https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJuuulianUwU)](https://twitter.com/JuuulianUwU)
 
-## I'm a Informatics Student at HTL Donaustadt!!
+## I'm an Informatics Student at HTL Donaustadt!!
 
 - 🔭 Always looking forward to learn something new!
 - 🌱 I’m currently learning CSS3 [<img style="float: right;" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
