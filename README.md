@@ -20,7 +20,7 @@
 - 🎓 I’m currently learning Vue [<img style="float: right;" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](https://vuejs.org/)
 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to my Github 🤣
-- ☄️ Stay High
+- 🌸 Stay High
 
 ```javascript
 const data = {
@@ -82,8 +82,7 @@ const data = {
     
   ![Spotify Broke :C](https://spotify-recently-played-readme.vercel.app/api?user=jtk205&count=5)
 
-
-
+<h2>↬ My Github Stats </h2>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?theme=dracula&username=JuuulianUwU&show_icons=true&locale=de" alt="JuuulianUwU" /></p>
   
