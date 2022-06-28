@@ -6,7 +6,7 @@
 ## I'm an Informatics Student at HTL Donaustadt!!
 
 - 🔭 Always looking forward to learn something new!
-- 🎓 I’m currently learning VueJS [<img style="float: right;" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
+- 🎓 I’m currently learning VueJS [<img style="float: right;" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">]
 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to my Github 🤣
 - ☄️ Stay High
