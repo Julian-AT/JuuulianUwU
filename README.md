@@ -7,6 +7,7 @@
 [website]: https://github.com/JuuulianUwU
 [twitter]: https://twitter.com/JuuulianUwU
 [youtube]: https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg
+[instagram]: https://www.instagram.com/julixn.png/
 
 ### Hi there, I'm Julian - aka [JuuulianUwU][website]👋 
 
@@ -51,6 +52,7 @@ const data = {
   ![VUE](https://img.shields.io/badge/vue-%2342b883.svg?style=for-the-badge&logo=vue&logoColor=white)
  
 <h2>↬ Editors </h2>
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
@@ -83,7 +85,7 @@ const data = {
 
 
 
-  [![JuuulianUwU's GitHub stats](https://github-readme-stats.vercel.app/api?theme=dracula&username=JuuulianUwU&show_icons=true&local=de")(https://github.com/anuraghazra/github-readme-stats)
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?theme=dracula&username=JuuulianUwU&show_icons=true&locale=de" alt="JuuulianUwU" /></p>
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=JuuulianUwU)](https://github.com/juuulianUwU)
 
