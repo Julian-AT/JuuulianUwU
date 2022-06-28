@@ -1,3 +1,11 @@
+<p align="center>
+  <img src="https://i.imgur.com/2xqzK0s.png"/>
+</p>
+
+<br>
+<br>
+<br>
+
 ### Hi there, I'm Julian - aka [JuuulianUwU][website]👋 
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCx3Q32cQMwNBCVfTDm8WSAg?color=red&label=Juuulian&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg)
@@ -11,6 +19,18 @@ I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to my Github 🤣
 - ☄️ Stay High
 
+```javascript
+const data = {
+  name: 'Julian S.',
+  country: 'Austria',
+  age: '17',
+  languages: {
+    german: true,
+    english: true
+  }
+}
+```
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -19,40 +39,49 @@ I’m looking to collaborate with other content creators
 
 <br />
 
-### Languages and Tools:
+<h2>↬ Programming languages & other </h2>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![REACT](https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![VUE](https://img.shields.io/badge/vue-%2342b883.svg?style=for-the-badge&logo=vue&logoColor=white)
+ 
+<h2>↬ Editors </h2>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<br />
-<br />
+<h2>↬ Systems I use </h2>
 
----
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 📺 Latest YouTube Videos
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-<!-- YOUTUBE:START -->
-- [Create Discord Tokens](https://www.youtube.com/watch?v=gYFKTovAD_U&t=9s)
+<h2>↬ Operating systems </h2>
+  
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<!-- YOUTUBE:END -->
+<br>
 
-➡️ [more videos...](https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg)
+<h2>↬ Music <h2>
+  <p align="left">
+    
+  ![Spotify Broke :C](https://spotify-recently-played-readme.vercel.app/api?user=jtk205&count=5)
 
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  [![JuuulianUwU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuuulianUwU)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+  [![JuuulianUwU's GitHub stats](https://github-readme-stats.vercel.app/api?theme=dracula&username=JuuulianUwU&show_icons=true&local=de")(https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=JuuulianUwU)](https://github.com/juuulianUwU)
 
-[website]: https://github.com/JuuulianUwU
-[twitter]: https://twitter.com/JuuulianUwU
-[youtube]: https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg
-[instagram]: https://www.instagram.com/julixn.png/
