@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://i.imgur.com/2xqzK0s.png"/>
+  <img src="https://i.imgur.com/CmPDOP1.png"/>
 </p>
 
 <br>
-<br>
-<br>
+
+[website]: https://github.com/JuuulianUwU
+[twitter]: https://twitter.com/JuuulianUwU
+[youtube]: https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg
 
 ### Hi there, I'm Julian - aka [JuuulianUwU][website]👋 
 
