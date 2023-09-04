@@ -1,32 +1,20 @@
-<p align="center">
-  <img src="https://i.imgur.com/CmPDOP1.png"/>
-</p>
 
 <br>
 
-[website]: https://github.com/JuuulianUwU
-[twitter]: https://twitter.com/JuuulianUwU
-[youtube]: https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg
 [instagram]: https://www.instagram.com/julixn.png/
 
-### Hi there, I'm Julian - aka [JuuulianUwU][website]👋 
-
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCx3Q32cQMwNBCVfTDm8WSAg?color=red&label=Juuulian&logo=Youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCx3Q32cQMwNBCVfTDm8WSAg)
-[![Twitter Follow](https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJuuulianUwU)](https://twitter.com/JuuulianUwU)
+### Hi there, I'm Julian 
 
 ## I'm an Informatics Student at HTL Donaustadt!!
 
 - 🔭 Always looking forward to learn something new!
-- 🎓 I’m currently learning Vue [<img style="float: right;" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](https://vuejs.org/)
-I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to my Github 🤣
-- 🌸 Stay High
+- 🎓 I’m currently learning Java Spring
 
 ```javascript
-const data = {
+const info = {
   name: 'Julian S.',
   country: 'Austria',
-  age: '17',
+  age: '18',
   languages: {
     german: true,
     english: true
@@ -36,27 +24,36 @@ const data = {
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-<h2>↬ Programming languages & other </h2>
+<h2>➾ Programming languages & other </h2>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![REACT](https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
-  ![VUE](https://img.shields.io/badge/vue-%2342b883.svg?style=for-the-badge&logo=vue&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
  
-<h2>↬ Editors </h2>
+<h2>➾ Frameworks</h2>
+
+  ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![VueJS](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+
+<h2>➾ Editors </h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<h2>↬ Systems I use </h2>
+<h2>➾ Systems I use </h2>
 
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,7 +66,7 @@ const data = {
   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-<h2>↬ Operating systems </h2>
+<h2>➾ Operating systems </h2>
   
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -77,14 +74,8 @@ const data = {
 
 <br>
 
-<h2>↬ Music <h2>
+<h2>➾ Music <h2>
   <p align="left">
     
-  ![Spotify Broke :C](https://spotify-recently-played-readme.vercel.app/api?user=jtk205&count=5)
-
-<h2>↬ My Github Stats </h2>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?theme=dracula&username=JuuulianUwU&show_icons=true&locale=de" alt="JuuulianUwU" /></p>
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=JuuulianUwU)](https://github.com/juuulianUwU)
+  ![Spotify Broke :C](https://spotify-recently-played-readme.vercel.app/api?user=jtk205&count=10)
 
