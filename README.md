@@ -1,8 +1,4 @@
-
-<br>
-
 [instagram]: https://www.instagram.com/julixn.png/
-
 ### Hi there, I'm Julian 
 
 ## I'm an Informatics Student at HTL Donaustadt!!
