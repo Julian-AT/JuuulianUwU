@@ -1,32 +1,22 @@
-[instagram]: https://www.instagram.com/julixn.png/
-### Hi there, I'm Julian 
 
-## I'm an Informatics Student at HTL Donaustadt!!
+<p align="center" href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=E4E4E4&center=true&vCenter=true&width=435&lines=%F0%9F%8C%BF++Julian+S.;%F0%9F%8C%B1+Informatics+Student;%F0%9F%93%A6+Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
+
+### 👋 Hi there, I'm Julian.
+
+## I'm an Informatics Student at HTL Donaustadt.
 
 - 🔭 Always looking forward to learn something new!
+- 📌 I'm from Austria
 - 🎓 I’m currently learning Java Spring
 
-```javascript
-const info = {
-  name: 'Julian S.',
-  country: 'Austria',
-  age: '18',
-  languages: {
-    german: true,
-    english: true
-  }
-}
-```
+<hr />
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-<h2>➾ Programming languages & other </h2>
+## 📂 Programming languages & other
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -35,21 +25,23 @@ const info = {
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
  
-<h2>➾ Frameworks</h2>
+## 🧩 Frameworks
 
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![ReactJS](https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
   ![VueJS](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
-<h2>➾ Editors </h2>
+## 📖 Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<h2>➾ Systems I use </h2>
+## 🐛 Systems I use
 
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,7 +54,7 @@ const info = {
   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-<h2>➾ Operating systems </h2>
+## 💻 Operating systems 
   
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -70,8 +62,15 @@ const info = {
 
 <br>
 
-<h2>➾ Music <h2>
-  <p align="left">
-    
-  ![Spotify Broke :C](https://spotify-recently-played-readme.vercel.app/api?user=jtk205&count=10)
+## ⚡ Github Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-at&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julian-at&theme=transparent)](https://git.io/streak-stats)
+
+<h2>🎺 Music </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtk205&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=8a2be2)](https://spotify-github-profile.vercel.app/api/view?uid=jtk205&redirect=true)
+
+<p align="left">
+  <img align="center" src="https://komarev.com/ghpvc/?username=julian-at&style=for-the-badge&color=blueviolet" alt="julian-at"/>
+</p>
 
