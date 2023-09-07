@@ -63,8 +63,8 @@
 <br>
 
 ## ⚡ Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-at&count_private=true&show_icons=true&theme=shadow-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julian-at&theme=shadow-purple)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-at&count_private=true&show_icons=true&theme=city_lights&border_color=00000000&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julian-at&theme=city_lights&card_width=500)](https://git.io/streak-stats)
 
 <h2>🎺 Music </h2>
 
