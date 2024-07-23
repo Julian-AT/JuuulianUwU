@@ -3,13 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=E4E4E4&center=true&vCenter=true&width=435&lines=%F0%9F%8C%BF++Julian+S.;%F0%9F%8C%B1+Informatics+Student;%F0%9F%93%A6+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-### 👋 Hi there, I'm Julian.
-
-## I'm an Informatics Student at HTL Donaustadt.
-
-- 🔭 Always looking forward to learn something new!
-- 📌 I'm from Austria
-- 🎓 I’m currently learning Java Spring
+## 👋 Hi there, I'm Julian.
 
 <hr />
 
@@ -41,24 +35,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🐛 Systems I use
-
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-  ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-## 💻 Operating systems 
-  
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
 
@@ -66,9 +42,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-at&count_private=true&show_icons=true&theme=city_lights&border_color=00000000&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julian-at&theme=city_lights&card_width=500)](https://git.io/streak-stats)
 
-<h2>🎺 Music </h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jtk205&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=8a2be2)](https://spotify-github-profile.vercel.app/api/view?uid=jtk205&redirect=true)
 
 <p align="left">
   <img align="center" src="https://komarev.com/ghpvc/?username=julian-at&style=for-the-badge&color=blueviolet" alt="julian-at"/>
