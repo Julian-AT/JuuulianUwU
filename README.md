@@ -14,6 +14,7 @@
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=C74634)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=.net&logoColor=white&color=512BD4)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
  
 ## 🧩 Frameworks
