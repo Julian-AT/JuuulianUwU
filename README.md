@@ -33,14 +33,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
-<br>
-
-## ⚡ Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-at&count_private=true&show_icons=true&theme=city_lights&border_color=00000000&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julian-at&theme=city_lights&card_width=500)](https://git.io/streak-stats)
-
-
 <p align="left">
   <img align="center" src="https://komarev.com/ghpvc/?username=julian-at&style=for-the-badge&color=blueviolet" alt="julian-at"/>
 </p>
